@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Drupal Password Auth for WordPress
+Plugin Name: Drupal Password Auth for WP
 Description: This plugin accepts Drupal 9 password hash as wordpress passwords and authnticate users. Please note this is for Legacy hash only.
 Author: Techrays Labs Private Limited
 Author URI: https://techrayslabs.com/
